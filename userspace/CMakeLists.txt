@@ -43,6 +43,7 @@ set(USERSPACE_PROJECTS
 	whoami
 	WindowServer
 	yes
+ 	startnetwork
 )
 
 add_subdirectory(libraries)
